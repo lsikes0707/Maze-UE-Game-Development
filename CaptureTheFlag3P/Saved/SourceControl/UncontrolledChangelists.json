@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZT/Z8RTBOIUBHX2XEEHA6AZG4.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3H/5HT25AGW3Q2B5MOTH1RKI1.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/M6/D4CMG9MFUX13LZMY4W6O9N.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/H2/0VP9UWKX6OTANNP7XLXWVV.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/51/MJ3QG9JQXFNPK5A4HFPCN3.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZN/TXCIYXQVL2BR5I51B12D8J.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2T/Z9VWCTFS77OIGE0STK9EJS.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/MM/8G0UZM38YJHD14FABBB4V5.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/HX/PSH5WUTENICMCQIHMT4YYR.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/S7/MG8B0HG1TA6B1J3DMGUUUH.uasset",
+				"C:/Users/LaiLaisGaming/Documents/GitHub/UE-Game-Development/CaptureTheFlag3P/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LI/CC3IPLQCBF48QF1A5F0BAL.uasset"
+			]
+		}
+	]
+}
