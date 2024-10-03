@@ -8,6 +8,9 @@ More to come:
 * A Winning end game sequence
 * Fine-tuning the light source
 * Adding more enhanced Input Actions for beyond keyboard (for those who like to plug and play)
-* Add more materials
+* Add more materials to prettify
 * Add more direction for the player to get up to speed in the game
 * Add a video recording of the game for easy viewing
+
+A simple snapshot of the maze from the outside:
+![Maze wip Snapshot 2024-10-03](https://github.com/user-attachments/assets/84535e31-236c-4a19-a39c-c2a9ad90f8dc)
